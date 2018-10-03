@@ -1,0 +1,47 @@
+<Team>
+    <Game>
+        <header>header.jpg</header>
+
+        <title>Game Name</title>
+        <logline>Title is a game where the player obtains things to overcome obstacles and achieve the goal</logline> 
+        
+        <descrition>Long Description</descrition>
+        
+        <website>URL</website>
+        
+        <presskit>Game.zip</presskit>
+
+        <release>2018 December 12</release>
+        
+        <links>
+            <url>game.github.io</url>
+            <url>game.github.io</url>
+        </links>
+
+        <gallery>
+            <trailer>https://www.youtube.com/watch?v=dQw4w9WgXcQ</trailer>
+            <screenshot>01.jpg</screenshot>
+            <screenshot>02.jpg</screenshot>
+            <screenshot>03.jpg</screenshot>
+            <screenshot>04.jpg</screenshot>
+        </gallery>
+
+        <platforms>
+            <os>Windows</os>
+            <os>OSX</os>
+        </platforms>
+
+        <price>Free</price>
+
+        <developers>
+            <dev>
+                <name>Name Surname</name>
+                <social>twitter.com/name</social>
+            </dev>
+            <dev>
+                <name>Name Surname</name>
+                <social>twitter.com/name</social>
+            </dev>
+        </developers>
+    </Game>
+</Team>
