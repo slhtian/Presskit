@@ -1,51 +1,49 @@
-<Team>
-    <Game>
-        <header>header.jpg</header>
-        <title>Game Name</title>
-        <logline>Title is a game where the player obtains things to overcome obstacles and achieve the goal</logline> 
-        
-        <description>
-            Long Description. This game features a character with input controls for a gameplay experience.
-        </description>
-        
-        <website>www.google.com</website>
-        <release>2018 December 12</release>
+<Game>
+    <header>header.jpg</header>
+    <title>My Rad Game</title>
+    <logline>Title is a game where the player obtains things to overcome obstacles and achieve the goal</logline> 
+    
+    <description>
+        Long Description. This game features a character with input controls for a gameplay experience.
+    </description>
+    
+    <website>www.google.com</website>
+    <release>2018 December 12</release>
 
-        <itch>34330</itch>
-        <presskit>Game.zip</presskit>
-        
-        <links>
-            <url>#</url>
-            <url>#</url>
-        </links>
+    <itch>51330</itch>
+    <presskit>Game.zip</presskit>
+    
+    <links>
+        <url>#</url>
+        <url>#</url>
+    </links>
 
-        <trailer>https://www.youtube.com/watch?v=dQw4w9WgXcQ</trailer>
+    <trailer>dQw4w9WgXcQ</trailer>
 
-        <gallery>
-            <screenshot>01.jpg</screenshot>
-            <screenshot>02.jpg</screenshot>
-            <screenshot>03.jpg</screenshot>
-            <screenshot>04.jpg</screenshot>
-        </gallery>
+    <gallery>
+        <screenshot>01.jpg</screenshot>
+        <screenshot>02.jpg</screenshot>
+        <screenshot>03.jpg</screenshot>
+        <screenshot>04.jpg</screenshot>
+    </gallery>
 
-        <platforms>
-            <os>Windows</os>
-            <os>OSX</os>
-        </platforms>
+    <platforms>
+        <os>Windows</os>
+        <os>OSX</os>
+    </platforms>
 
-        <price>Free</price>
+    <price>Free</price>
 
-        <developers>
-            <dev>
-                <name>Name Surname</name>
-                <social>twitter.com/name</social>
-                <email>name@gmail.com</email>
-            </dev>
-            <dev>
-                <name>Name Surname</name>
-                <social>twitter.com/name</social>
-                <email>name@gmail.com</email>
-            </dev>
-        </developers>
-    </Game>
-</Team>
+    <developers>
+        <dev>
+            <name>Name Surname</name>
+            <social>twitter.com/name</social>
+            <email>name@gmail.com</email>
+        </dev>
+        <dev>
+            <name>Name Surname</name>
+            <social>twitter.com/name</social>
+            <email>name@gmail.com</email>
+        </dev>
+    </developers>
+</Game>
