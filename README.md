@@ -1,2 +1,2 @@
 # Presskit
-Static xml-driven indie game presskit.
+Primitive game presskit web page generator.
